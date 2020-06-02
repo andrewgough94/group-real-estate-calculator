@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import CalculatorHome from './components/CalculatorHome';
 
+
 function App() {
   return (
     <div className="App">
@@ -20,7 +21,10 @@ function App() {
           Learn React
         </a>
       </header>
-      <CalculatorHome/>
+
+
+      <CalculatorHome />
+
     </div>
   );
 }
