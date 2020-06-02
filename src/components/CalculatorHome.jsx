@@ -6,7 +6,7 @@ class CalculatorHome extends React.Component {
     }
 
     render() {
-        return (<div>jake weenie small div</div>);
+        return (<div>calculator home component</div>);
     }
 }
 
